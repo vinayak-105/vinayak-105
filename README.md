@@ -1,5 +1,6 @@
 Hi, I'm Vinayak Singh
-I'm Student of CSE <br><br> learning C/C++, python Programming <br> 🚀 Building business prototypes <br>| 📚 Mastering C++ data structures |<br> 🤝 Need GCC debug buddies <br>| ☕ Fun: Conquered a 2AM matrix bug with epic chai sprints
+
+I'm Student of CSE <br> learning C/C++, python Programming <br> 🚀 Building business prototypes <br>| 📚 Mastering C++ data structures |<br> 🤝 Need GCC debug buddies <br>| ☕ Fun: Conquered a 2AM matrix bug with epic chai sprints
 
 
 ## 🌐 Socials:
